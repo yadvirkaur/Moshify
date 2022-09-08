@@ -142,3 +142,31 @@ a {
     padding-left: 0rem;
   }
 }
+
+/*-----------Icons----------------------------------------------*/
+
+.icon {
+  width: 40px;
+  height: 40px;
+}
+
+.icon--primary {
+  fill: var(--color-primary);
+}
+
+/*
+.icon-container {
+  background: gold;
+  border-radius: 100%;
+  width: 60px;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+*/
+.icon--shadow {
+  background: #f3f9f3;
+  border-radius: 100%;
+  padding: 1rem;
+}
