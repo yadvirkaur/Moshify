@@ -506,7 +506,7 @@ a {
   margin-top: 0;
   font-size: 3rem;
 }
-.callout__button {
+.callout .btn {
   justify-self: center;
   align-self: center;
 }
@@ -519,7 +519,7 @@ a {
     text-align: left;
   }
 
-  .callout .callout__button {
+  .callout .btn {
     justify-self: start;
     margin: 0 2rem;
   }
